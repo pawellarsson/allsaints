@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hi AllSaints
+
+I used create-react-app for this test.
+In order top start we need to install dependencies first.
+
+1. In terminal type yarn install or npm install
+2. Once done, start the App with yarn start or npm start
+
+There's couple of things missing,
+it wasn't in the requirements so I didn't focus on it.
+For example, there's no styling or tests.
+Also the code could be split bit more but the based on size of the App,
+I felt this is enough. Perhaps a better way would be to put the main code as
+it's own component and then import it so it can be reused anywhere on the page.
+
+All the best :)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
